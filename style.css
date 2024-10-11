@@ -1,0 +1,42 @@
+body{
+    background-color: #CED5E0;
+
+}
+
+.container{
+    width: 800px;
+    background-color: white;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+#bastya{
+    padding: 15px;
+}
+#border{
+    border-style: solid none solid none;
+    width: 400px ;
+    margin: auto;
+}
+
+#table{
+    margin: auto;
+    background-color: #CED5E0;
+}
+#td{
+    text-align: center;
+    margin: 2px;
+    padding: 1px;
+}
+#kozep{
+    text-align: center;
+}
+#link, link:hover, link:visited, link:active{
+    float: right;
+    color: #ff0000;
+    margin-top: 5px;
+}
+#linka{
+    color: #ff0000;
+}
